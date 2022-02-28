@@ -9,4 +9,6 @@
 
 ![Luciano GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoCarvalho0106&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoCarvalho0106&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
